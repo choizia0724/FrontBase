@@ -1,0 +1,29 @@
+{
+  "main": {
+    "homePageName": "가짜시트"
+  },
+  "header": {
+    "my-page": "마이페이지",
+    "logout": "로그아웃",
+    "login": "로그인",
+    "register": "회원가입",
+    "language": "언어설정",
+    "help": "고객센터"
+  },
+  "nav": {
+    "TimeSheet": "TimeSheet",
+    "Report" : "Report",
+    "Account Master": "Account Master",
+    "Team": "Team",
+    "Personal": "Personal",
+    "Performance(Personal)": "Performance(Personal)",
+    "Performance(Team)": "Performance(Team)",
+    "Weekly": "Weekly",
+    "프로젝트 관리": "프로젝트 관리",
+    "고객사 관리": "고객사 관리",
+    "프로젝트 승인 관리": "프로젝트 승인 관리",
+    "프로젝트 등록": "프로젝트 등록",
+    "dashboard": "대시보드",
+    "shopping-mall": "쇼핑몰 관리"
+  }
+}

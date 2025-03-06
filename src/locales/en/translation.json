@@ -1,0 +1,29 @@
+{
+  "main": {
+    "homePageName": "FakeSheet"
+  },
+  "header": {
+    "my-page": "My page",
+    "logout": "Sign Out",
+    "login": "Sign In",
+    "register": "Sign Up",
+    "language": "Languages",
+    "help": "Help"
+  },
+  "nav": {
+    "TimeSheet": "TimeSheet",
+    "Report" : "Report",
+    "Account Master": "Account Master",
+    "Team": "Team",
+    "Personal": "Personal",
+    "Performance(Personal)": "Performance(Personal)",
+    "Performance(Team)": "Performance(Team)",
+    "Weekly": "Weekly",
+    "프로젝트 관리": "Project Manage",
+    "고객사 관리": "Customer Manage",
+    "프로젝트 승인 관리": "Project Approval Manage",
+    "프로젝트 등록": "Project Register",
+    "dashboard": "Dashboard",
+    "shopping-mall": "Shopping Mall"
+  }
+}
